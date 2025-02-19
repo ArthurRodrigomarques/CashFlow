@@ -1,0 +1,29 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.cache
+*.pdb
+*.dbmdl
+*.log
+*.tlog
+*.ipch
+*.obj
+*.idb
+
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.sdf
+*.sqlite
+
+# NuGet packages
+*.nupkg
+packages/
