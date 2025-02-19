@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9996BB3F-08C0-4F31-B23D-6B22861EECB9}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\arthu\\onedrive\\desktop\\projetos\\cashflow\\src\\cashflow.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9996BB3F-08C0-4F31-B23D-6B22861EECB9}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC37D553-0CDF-49ED-A155-05CEA49419CD}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\arthu\\onedrive\\desktop\\projetos\\cashflow\\src\\cashflow.application\\cashflow.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC37D553-0CDF-49ED-A155-05CEA49419CD}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\cashflow.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73289D8-1937-4A63-8A0A-3F81CA3B496B}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\arthu\\onedrive\\desktop\\projetos\\cashflow\\src\\cashflow.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73289D8-1937-4A63-8A0A-3F81CA3B496B}|src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:src\\cashflow.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F1ED261-C8C7-484F-9300-CA5C77A395EF}|Solution Items{5F1ED261-C8C7-484F-9300-CA5C77A395EF}|C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5F1ED261-C8C7-484F-9300-CA5C77A395EF}|Solution Items{5F1ED261-C8C7-484F-9300-CA5C77A395EF}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:58:31.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashFlow.Application",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\CashFlow.Application.csproj",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+              "RelativeToolTip": "src\\CashFlow.Application\\CashFlow.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T08:16:48.831Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\src\\CashFlow.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "src\\CashFlow.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:19:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Desktop\\Projetos\\CashFlow\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-02-19T08:13:53.499Z",
+              "EditorCaption": ""
             }
           ]
         }
