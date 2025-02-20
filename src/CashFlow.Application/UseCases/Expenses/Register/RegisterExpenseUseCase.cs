@@ -16,27 +16,28 @@ public class RegisterExpenseUseCase
 
     private void Validate(RequestRegisterExpenseJson request)
     {
-        var titleIsEmpty = string.IsNullOrWhiteSpace(request.Title);
-        if (titleIsEmpty) 
-        {
-            throw new ArgumentException("O titulo é obrigatório");
-        }
-        if(request.Amount <= 0)
-        {
-            throw new ArgumentException("O valor deve ser maior que zero");
-        }
+        //var titleIsEmpty = string.IsNullOrWhiteSpace(request.Title);
+        //if (titleIsEmpty) 
+        //{
+        //    throw new ArgumentException();
+        //}
 
-        var result = DateTime.Compare(request.Date, DateTime.UtcNow);
-        if(result > 0)
-        {
-            throw new ArgumentException("O horário está errado");
-        }
+        //if(request.Amount <= 0)
+        //{
+        //    throw new ArgumentException();
+        //}
+
+        //var result = DateTime.Compare(request.Date, DateTime.UtcNow);
+        //if(result > 0)
+        //{
+        //    throw new ArgumentException();
+        //}
 
         var paymentTypeIsValid = Enum.IsDefined(typeof(PaymentType), request.PaymentType);
 
         if (paymentTypeIsValid == false) 
         {
-            throw new ArgumentException("O pagamento não é válido");
+            throw new ArgumentException();
         }
     }
 }
